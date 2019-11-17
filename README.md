@@ -1,5 +1,5 @@
 # Prolog-Basics
-Basic Begineer level codes in Prologfor reference in Assignments
+Basic Begineer level codes in Prolog for reference in Assignments
 
 
 ## Mammal
